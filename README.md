@@ -8,3 +8,4 @@ facebook flux demo
 npm install
 webpack-dev-server
 ```
+visit http://localhost:8080
